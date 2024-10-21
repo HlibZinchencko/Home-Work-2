@@ -1,1 +1,7 @@
 print('This is a first project in group 1112')
+name = input("Please enter your name")
+name = input("Please enter your phone number")
+name = input("Please enter your email adress")
+name = input("Please enter your age")
+name = input("Please enter your class room")
+name = input("Please enter your idf student")
